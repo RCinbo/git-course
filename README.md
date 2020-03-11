@@ -6,3 +6,4 @@ Let's try to alter this README file
 ## Collaborators
 
 - Raïsa Carmen
+- Peter Desmet
