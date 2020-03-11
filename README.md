@@ -5,4 +5,4 @@ Let's try to alter this README file
 
 ## Collaborators
 
--Raïsa Carmen
+- Raïsa Carmen
